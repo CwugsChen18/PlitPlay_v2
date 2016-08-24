@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="RatioLayout">
+        <attr name="rate" format="float"/>
+        <attr name="mode">
+            <enum name="s_width" value="0"/>
+            <enum name="s_height" value="1"/>
+        </attr>
+    </declare-styleable>
+</resources>
